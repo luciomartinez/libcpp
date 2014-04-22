@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="RESOURCES\Arbol.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="821" topLine="34" />
+	</File>
+	<File name="RESOURCES\Arbol.h" open="0" top="0" tabpos="2">
+		<Cursor position="377" topLine="0" />
+	</File>
+	<File name="RESOURCES\Nodo.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2879" topLine="167" />
+	</File>
+	<File name="RESOURCES\Nodo.h" open="0" top="0" tabpos="5">
+		<Cursor position="658" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="962" topLine="19" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1353544873 source:c:\documents and settings\invitado\escritorio\test\arbol\main.cpp
+	<iostream>
+	"RESOURCES/Arbol.h"
+
+1353544974 source:c:\documents and settings\invitado\escritorio\test\arbol\resources\nodo.cpp
+	"Nodo.h"
+
+1353544704 c:\documents and settings\invitado\escritorio\test\arbol\resources\nodo.h
+	<iostream>
+
+1353544797 source:c:\documents and settings\invitado\escritorio\test\arbol\resources\arbol.cpp
+	"Arbol.h"
+
+1353544233 c:\documents and settings\invitado\escritorio\test\arbol\resources\arbol.h
+	<iostream>
+	"Nodo.h"
+
+1360528583 source:c:\documents and settings\invitado\escritorio\test\arbol_oo\main.cpp
+	<iostream>
+	"stdlib.h"
+	"RESOURCES/Arbol.h"
+
+1360527723 c:\documents and settings\invitado\escritorio\test\arbol_oo\resources\arbol.h
+	<iostream>
+	"Nodo.h"
+
+1360528184 c:\documents and settings\invitado\escritorio\test\arbol_oo\resources\nodo.h
+	<iostream>
+
+1360528507 source:c:\documents and settings\invitado\escritorio\test\arbol_oo\resources\arbol.cpp
+	"Arbol.h"
+
+1360528323 source:c:\documents and settings\invitado\escritorio\test\arbol_oo\resources\nodo.cpp
+	"Nodo.h"
+

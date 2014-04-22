@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1351782547 source:c:\users\usuario\desktop\poo\poo\main.cpp
+	<iostream>
+	"Pila.h"
+
+1351781593 c:\users\usuario\desktop\poo\poo\pila.h
+
+1351782512 source:c:\users\usuario\desktop\poo\poo\pila.cpp
+	"Pila.h"
+	<iostream>
+
+1351782512 source:c:\users\usuario\desktop\poo\pila.cpp
+	"Pila.h"
+	<iostream>
+
+1351781593 c:\users\usuario\desktop\poo\pila.h
+
+1351782547 source:c:\users\usuario\desktop\poo\main.cpp
+	<iostream>
+	"Pila.h"
+
+1352385910 source:c:\documents and settings\invitado\escritorio\test\nodo.cpp
+	"Nodo.h"
+	<iostream>
+
+1352863573 c:\documents and settings\invitado\escritorio\test\nodo.h
+	<iostream>
+
+1351782512 source:c:\documents and settings\invitado\escritorio\test\pila.cpp
+	"Pila.h"
+	<iostream>
+
+1351781593 c:\documents and settings\invitado\escritorio\test\pila.h
+
+1352864430 source:c:\documents and settings\invitado\escritorio\test\main.cpp
+	<iostream>
+	"Pila.h"
+	"Lista.h"
+
+1352864392 source:c:\documents and settings\invitado\escritorio\test\lista.cpp
+	"lista.h"
+	<stdlib.h>
+
+1352863918 c:\documents and settings\invitado\escritorio\test\lista.h
+	"Nodo.h"
+
+1353014166 source:c:\documents and settings\administrador\escritorio\lista_oo\nodo.cpp
+	"Nodo.h"
+	<iostream>
+
+1353014166 c:\documents and settings\administrador\escritorio\lista_oo\nodo.h
+	<iostream>
+
+1353024880 source:c:\documents and settings\administrador\escritorio\lista_oo\main.cpp
+	<iostream>
+	"Lista.h"
+
+1353023651 c:\documents and settings\administrador\escritorio\lista_oo\lista.h
+	"Nodo.h"
+
+1353024806 source:c:\documents and settings\administrador\escritorio\lista_oo\lista.cpp
+	"lista.h"
+
+1353542184 source:c:\documents and settings\invitado\escritorio\lista_oo\nodo.cpp
+	"Nodo.h"
+
+1353542031 c:\documents and settings\invitado\escritorio\lista_oo\nodo.h
+	<iostream>
+
+1353542236 source:c:\documents and settings\invitado\escritorio\lista_oo\lista.cpp
+	"Lista.h"
+
+1353175311 c:\documents and settings\invitado\escritorio\lista_oo\lista.h
+	"Nodo.h"
+
+1353542252 source:c:\documents and settings\invitado\escritorio\lista_oo\main.cpp
+	<iostream>
+	"Lista.h"
+
+1360527830 source:c:\documents and settings\invitado\escritorio\test\lista_oo\main.cpp
+	<iostream>
+	<string>
+	"stdlib.h"
+	"Lista.h"
+
+1360450743 c:\documents and settings\invitado\escritorio\test\lista_oo\lista.h
+	"Nodo.h"
+
+1360286785 c:\documents and settings\invitado\escritorio\test\lista_oo\nodo.h
+	<iostream>
+
+1360452748 source:c:\documents and settings\invitado\escritorio\test\lista_oo\nodo.cpp
+	"Nodo.h"
+
+1360527802 source:c:\documents and settings\invitado\escritorio\test\lista_oo\lista.cpp
+	"Lista.h"
+
